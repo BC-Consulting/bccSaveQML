@@ -1,6 +1,6 @@
 [saveQML]: http://www.geoproc.com/free/img/bccSaveQML.png
 
-![][savveQML]
+![][saveQML]
 # bccSaveQML
 
 QGIS plugin (for version &gt;=3.4): Save the style of each selected layer in qml files.
