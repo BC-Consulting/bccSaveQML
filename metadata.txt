@@ -1,0 +1,19 @@
+[general]
+name=bccSaveQML
+description=Save the style of each selected layer in qml files
+category=Plugins
+version=2.0
+icon=icon.png
+qgisMinimumVersion=3.4
+qgisMaximumVersion=3.99
+author=GeoProc.com
+email=info@geoproc.com
+
+about=Save the style of each selected layer in qml files
+tracker=https://github.com/BC-Consulting/bccSaveQML/issues
+repository=https://github.com/BC-Consulting/bccSaveQML
+homepage=http://www.geoproc.com/free/bccSaveQML.html
+
+tags=qml, style, save, batch
+experimental=False
+deprecated=False
