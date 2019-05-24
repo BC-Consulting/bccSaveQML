@@ -3,8 +3,10 @@
 ![][saveQML]
 # bccSaveQML
 
+ ## OBSOLETE: see the [geoprocAlgos](https://github.com/BC-Consulting/geoprocalgos) repository for latest versions.
+
 QGIS plugin (for version &gt;=3.4): Save the style of each selected layer in qml files.
 
-Description: [here](http://www.geoproc.com/free/bccSaveQML.html)
+---
 
 (c) GeoProc.com - 2019
